@@ -4,7 +4,7 @@
 Suppose a bank has the home loans details of about 25,000 customers, which consist of their personal information such as gender, occupation, age and salary, and other bank-related details, including the applied loan amount, dates when they applied for the loan, sanctioned amount, and so on. The dataset contains six tables: customer, sanction data, recovery data, branch, channel and product.
 
 
-Problem Statement
+Problem Statement:
 
 The bank is facing difficulty in keeping track of these details from all its branches. It is also not able to understand how its business is doing and identify the target areas that it should focus on to leverage its profits.
 
